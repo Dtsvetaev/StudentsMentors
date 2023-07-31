@@ -56,5 +56,6 @@ cool_lecturer.courses_attached += ['Python']
 best_student.rate_lecture(cool_lecturer, 'Python', 8)
 
 print(cool_lecturer.grades)
+# print(cool_lecturer.grades)
 
 # print(best_student.grades)
